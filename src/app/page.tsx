@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <main>
       <div>
-        <h2>This is Achyuth's portfolio website 2</h2>
+        <h2>This is Achyuth's portfolio website 3</h2>
       </div>
     </main>
   );
