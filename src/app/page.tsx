@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <main>
       <div>
-        <Button onClick={buttonClicked}>Click Me</Button>
+        <h2>This is Achyuth's portfolio website</h2>
       </div>
     </main>
   );
