@@ -1,17 +1,13 @@
 "use client";
-import { Button } from "@nextui-org/react";
-import Image from "next/image";
+
+import HeroBanner from "sections/Hero_Banner";
 
 export default function Home() {
-  const buttonClicked = (event: any) => {
-    console.log("Clicked the button");
-  };
-
   return (
     <main>
-      <div>
-        <h2>This is Achyuth's portfolio website 3</h2>
-      </div>
+      <section>
+        <HeroBanner />
+      </section>
     </main>
   );
 }
